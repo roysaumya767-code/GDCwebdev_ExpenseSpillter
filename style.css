@@ -1,0 +1,91 @@
+body {
+    background-size:cover;
+    background-image: url("money.jpg");
+
+}
+#box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#form2 {
+    
+    text-align: center;
+    color:black;
+    border:5px solid white;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding:20px;
+    width:80%;
+    max-width:500px;
+    line-height: 2.5;
+    background-color: white;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.m {
+    height: 35px;
+    width:70%;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+#form1 {
+    
+    
+    text-align: center;
+    color:black;
+    border:5px solid white;
+    border-radius: 10px;
+    
+    margin-top: 40px;
+    
+    padding:20px;
+    width:500px;
+    line-height: 2.5;
+    background-color: white;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display:none;
+}
+button {
+    height: 35px;
+    background-color: rgb(0, 225, 255);
+    color:White;
+    border-radius: 10px;
+    padding:10px 20px 10px 20px;
+    transition: all 0.1s linear 0s;
+
+}
+button:hover {
+    background-color: blue;
+}
+
+    
+    
+    
+    
+
+
+
+#head {
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#head2 {
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.e {
+    height: 35px;
+    
+    text-align: center;
+    border-radius: 10px;
+    
+
+}

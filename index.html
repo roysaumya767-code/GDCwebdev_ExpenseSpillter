@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>expense</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+    <div id="box1">
+    <div id ="form2">
+    <h1 id ="head">EXPENSE SPLITTER</h1>
+    
+    <label>Enter members name:</label><br>
+    <input type="text" placeholder="Enter the name of member1" id = "m1" class="m"><br>
+    <button type="button" onclick="add_mem()" id="adm">Add Member</button><br>
+    <button type="button" onclick="del()" id="del">Delete Member</button><br>
+    
+    <p>Click on Submit After Addding All Element:</p>
+    <button  type="button" onclick="array()" id="arr">Submit </button><br>
+
+    </div>
+    
+    <form id ="form1">
+    <h1 id ="head2">EXPENSE SPLITTER</h1>
+    <label>Enter Name of expense:</label>
+     
+    <input type="text" placeholder="Enter the Expense name"  id ="en1"class = "e"><br>
+     <label>Enter the person who paid:</label>
+     
+    <input type="text" placeholder="Enter the person name" id = "ep1" class="e"><br>
+     <label>Enter the cost :</label>
+     
+    <input type="number" placeholder="Enter the cost" id = "ec1" class="e"><br>
+    <label>Choose the number of people envolve in Expense:</label><br>
+    
+    <button type="button" onclick="add_expense()" id="ade">Add Expense</button>
+    <br>
+    <button type="button" onclick="delet()" id="dee">Delete Expense</button>
+    <br>
+    <p>Click on Submit After Adding All Expense :</p>
+    <button type="button" onclick="Calculate()" id="cal">Submit</button>
+
+
+     
+
+
+
+    </form>
+    </div>
+   <script src="index.js"></script> 
+</body>
+</html>
