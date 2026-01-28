@@ -1,5 +1,5 @@
 # GDCwebdev_ExpenseSpillter
-ExpenseSpillter is a website where you and your friends can calculate theirs expenses.You don't need calculator you just need this website and all your data
+ExpenseSpillter is a website where you and your friends can calculate theirs expenses.You don't need calculator you just need this website and all your data  
 I have used various feature to make this website Such as :DOM, EventListener and also localstorage.
 Features of this website are:
 1.It shows all member net balance, cost they paid in trip and the cost they spend in trip in table format.
