@@ -8,3 +8,4 @@ Features of this website are:
 4. It also handle some basic error such as if the person who paid is wrong then it will alert you and if no checkboxes are click then also it will alert.         
 
 <img width="600" height="400" alt="Screenshot 2026-01-28 173921" src="https://github.com/user-attachments/assets/38137930-9f91-4b52-adfa-a5ebdd7c323f" />
+https://expense-spillter-gd-cwebdev-ps.vercel.app/
